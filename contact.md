@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Contact"
+---
+
 # 📞 Contact
 
 **Name:** Noel Binoy  
